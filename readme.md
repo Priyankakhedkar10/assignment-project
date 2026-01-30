@@ -1,6 +1,6 @@
 ***Hello Welcome to TechShip***
 
-#TECHSHIP
+# TECHSHIP
 
 ![Screenshots](./images/redimg/ssc.jpg)
 
