@@ -20,3 +20,6 @@
 p{
      color:grey;
 }
+.border{
+    border-radius: 15px 15px 15px 15px;
+}
