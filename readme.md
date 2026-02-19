@@ -2,7 +2,7 @@
 
 # TECHSHIP
 
-![Screenshots](./images/redimg/ssc.jpg)
+![Screenshots](./images/redimg/ssc.png)
 
 
 ***About TechShip***
